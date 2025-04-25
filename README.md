@@ -1,4 +1,4 @@
-# 👋 Kauet Martins
+ # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [🇺🇸 English](#-english-version) | [🇧🇷 Português](#-versão-em-português)
 
@@ -27,7 +27,7 @@ I'm Kauet da Motta Martins, a indie full-stack developer building my version of 
 <br />
 <br>
 
-# GitHub Stats 💻
+### GitHub Stats 💻
 
 <table border="0" style="border: none;">
   <tr>
@@ -47,6 +47,8 @@ I'm Kauet da Motta Martins, a indie full-stack developer building my version of 
 ---
 
 ## 🇧🇷 Versão em Português
+
+# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Gmail Badge](https://img.shields.io/badge/-kauetdamotta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kauetdamotta@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Kauet%20Martins-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauet-martins/ "Connect on LinkedIn")
@@ -69,7 +71,7 @@ Sou Kauet da Motta Martins, desenvolvedor full stack independente, construindo m
 <br />
 <br>
 
-# Estatus Github 💻
+### Estatus Github 💻
 
 <table border="0" style="border: none;">
   <tr>
