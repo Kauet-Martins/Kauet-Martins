@@ -53,7 +53,7 @@ I'm Kauet da Motta Martins, a indie full-stack developer building my version of 
 
 Sou Kauet da Motta Martins, desenvolvedor full stack independente, construindo minha própria visão do mundo digital um projeto por vez. Formado em Análise e Desenvolvimento de Sistemas, foco na criação de aplicações práticas e centradas no usuário — desde gerenciadores de tarefas e ferramentas de produtividade até jogos e interfaces interativas. Todos os meus projetos são desenvolvidos do zero, unindo planejamento, design e código para entregar soluções reais. Com experiência prática no suporte e melhoria de sistemas públicos, levo habilidade técnica e uma mentalidade focada em resolver problemas para cada linha de código.
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -69,7 +69,7 @@ Sou Kauet da Motta Martins, desenvolvedor full stack independente, construindo m
 <br />
 <br>
 
-# GitHub Stats 💻
+# Estatus Github 💻
 
 <table border="0" style="border: none;">
   <tr>
