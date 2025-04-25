@@ -6,6 +6,9 @@
 
 ## 🇺🇸 English Version
 
+[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](kauet:kauetdamotta@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kauet-martins/ "Connect on LinkedIn")
+
 I'm Kauet da Motta Martins, a indie full-stack developer building my version of the digital world one project at a time. With a background in Systems Analysis and Development, I focus on creating practical, user-centered applications — from task managers and productivity tools to games and interactive interfaces. All my projects are built from the ground up, combining planning, design, and code to deliver real solutions. With hands-on experience supporting and improving public systems, I bring both technical skill and a problem-solving mindset to every line of code.
 
 ### 🧰 Languages and Tools
